@@ -261,7 +261,7 @@ elsewhere.
 
 This is something fundamental to the way Micro is written and how we hope to guide software development in a microservices world.
 
-We've briefly discussed cloud architecture patterns in a previous post about [Micro on NATS]({{ site.baseurl }}{{ site.baseurl }}/2016/04/11/micro-on-nats.html#scaling-micro-on-nats) 
+We've briefly discussed cloud architecture patterns in a previous post about [Micro on NATS]({{ site.baseurl }}/2016/04/11/micro-on-nats.html#scaling-micro-on-nats) 
 and will re-address some of the ideas here.
 
 When deploying services in a production setting you'll be looking to build something scalable, fault tolerant and performant. Cloud computing now gives us 
