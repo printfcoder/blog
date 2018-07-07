@@ -1,6 +1,6 @@
 name: The Micro Blog
 description: Simplifying Cloud Native Development
-meta_description: "The micro blog is a resource for microservices and distributed systaems"
+meta_description: "The micro blog is a resource for microservices and distributed systems"
 
 markdown: kramdown
 highlighter: pygments
