@@ -4,7 +4,7 @@ title:  Sixt - Micro Sponsorship Announcement
 date:   2016-04-25 09:00:00
 ---
 <br>
-<img src="{{ site.baseurl }}/assets/images/micro_sixt.png" style="max-width: 400px; height: auto;" />
+<img src="{{ site.baseurl }}/assets/images/micro_sixt.png" style="max-width: 400px; width: 100%; height: auto;" />
 
 Today we're excited to announce [**Sixt**](https://www.sixt.com/) as a sponsor of [**Micro**](https://micro.mu).
 

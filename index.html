@@ -24,8 +24,22 @@ cover: false
     <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
 </header>
 -->
-<header style="margin-top: 45px; margin-bottom: 100px; padding-left: 9%;">
-  <span style="color: #333; font-weight: 1000; font-size: 2.2em; font-family: medium-content-sans-serif-font,'Lucida Grande','Lucida Sans Unicode','Lucida Sans',Geneva,Arial,sans-serif;">{{ site.name }}</span>
+<style>
+  .title {
+    padding-left: 15px; 
+    color: #333; 
+    font-weight: 1000; 
+    font-size: 2.2em; 
+    font-family: medium-content-sans-serif-font,'Lucida Grande','Lucida Sans Unicode','Lucida Sans',Geneva,Arial,sans-serif;
+  }
+  @media (min-width: 501px) {
+    .title {
+        padding-left: 10%;
+    }
+  }
+</style>
+<header style="margin-top: 45px; margin-bottom: 100px;">
+  <span class="title">{{ site.name }}</span>
 </header>
 
 <main id="content" class="content" role="main">
