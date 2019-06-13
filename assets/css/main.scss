@@ -12,3 +12,25 @@
 @import
 	"syntax"
 ;
+
+.site-footer {
+  font-size: 15px;
+  font-weight: bold;
+  padding: 25px;
+  color: #fff;
+  background-color: #252531;
+}
+
+.site-footer a {
+  color: #fff;
+}
+
+.list-inline {
+  margin: 0;
+}
+
+.list-inline li {
+  margin: 0;
+  padding-right: 10px;
+  display: inline-block;
+}
